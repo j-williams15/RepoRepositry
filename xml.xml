@@ -1,0 +1,42 @@
+<data>
+  <people>
+    <person>
+      <name>Alice</name>
+      <age>28</age>
+    </person>
+    <person>
+      <name>Bob</name>
+      <age>35</age>
+    </person>
+    <person>
+      <name>Carol</name>
+      <age>42</age>
+    </person>
+  </people>
+  <books>
+    <book>
+      <title>Sample Book</title>
+      <author>Mock Author</author>
+      <year>2023</year>
+      <pages>300</pages>
+      <isAvailable>true</isAvailable>
+    </book>
+  </books>
+  <cars>
+    <car>
+      <make>Toyota</make>
+      <model>Corolla</model>
+      <year>2022</year>
+    </car>
+    <car>
+      <make>Honda</make>
+      <model>Civic</model>
+      <year>2021</year>
+    </car>
+    <car>
+      <make>Ford</make>
+      <model>Mustang</model>
+      <year>2023</year>
+    </car>
+  </cars>
+</data>
